@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MapAndCharacterLoader
+comment1.params=mapFile\ characterFile
+comment1.target=MapAndCharacterLoader(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=LinkedList\ loadOperatorList()
+comment3.params=
+comment3.target=LinkedList\ loadMapList()
+comment4.params=fileName
+comment4.target=Map\ loadMap(java.lang.String)
+comment5.params=counter\ in\ aSite
+comment5.target=void\ addHatchesToBarricade(int,\ java.util.Scanner,\ Sites)
+comment6.params=counter\ in\ aSite
+comment6.target=void\ addWallsToBarricade(int,\ java.util.Scanner,\ Sites)
+comment7.params=counter\ in\ aSite
+comment7.target=void\ addRotationWallsToBreak(int,\ java.util.Scanner,\ Sites)
+comment8.params=counter\ in\ aSite
+comment8.target=void\ addWallsToElectrify(int,\ java.util.Scanner,\ Sites)
+numComments=9

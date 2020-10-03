@@ -1,0 +1,9 @@
+bank.txt
+border.txt
+chalet.txt
+clubhouse.txt
+coastline.txt
+consulate.txt
+kafeDostoyevsky.txt
+kanal.txt
+oregon.txt

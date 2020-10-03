@@ -1,0 +1,29 @@
+consulate
+-1 cafeteria -1 garage
+2 1 bathroom northwestCorner 1 lobby inCircularDesk
+3 -1 garage W -1 garage W -1 garage W
+5 -1 garage W -1 garage W -1 garage W -1 cafeteria N -1 cafeteria N
+1 -1 cafeteria W
+5 4 2 3 1
+9 10 10 8 6
+2 meeting 2 office
+0
+0
+8 2 cabinet N 2 cabinet N 2 meeting N 2 meeting N 2 meeting N 2 meeting N 2 bathroom W 2 bathroom W
+2 2 cabinet N 2 waiting W
+5 4 1 2 4
+10 8 2 2 6
+-1 archives 1 teller
+2 1 lobby southEast 1 visa southwest
+0
+6 -1 storage E -1 storage E -1 storage E -1 archivesCorridor N -1 Electric W -1 Electric W
+0
+5 4 1 2 4
+10 10 7 8 11
+1 piano 1 lobby
+2 2 cabinet middle 2 meeting northwestCorner
+0
+3 1 bathroom N 1 bathroom N 1 bathroom N
+1 1 bathroom W
+5 4 1 2 4
+10 10 8 2 11

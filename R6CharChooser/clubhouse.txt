@@ -1,0 +1,29 @@
+clubhouse
+-1 church -1 arsenal
+3 1 kitchen byWindow 1 bar middle 1 stockRoom middle
+2 -1 tunnel E -1 tunnel N
+7 -1 tunnel E -1 tunnel N -1 church E -1 church E -1 church E -1 blue N -1 blue N
+0
+5 3 1 1 2
+10 8 9 2 6
+2 cash 2 cctv
+0
+2 2 cctv E 2 cctv E
+8 2 cctv E 2 cctv E 2 cctv S 2 cctv S 2 cash W 2 cash W 2 cash E 2 cash E
+1 2 cctv N
+5 3 1 1 2
+10 9 10 8 9
+2 bedroom 2 gym
+0
+2 2 bedroomHall W 2 bedroomHall W
+6 2 bedroomHall W 2 bedroomHall W 2 stash S 2 stash S 2 bathroom W 2 bathroom W
+1 2 gym E
+5 3 1 1 2
+10 9 10 8 11
+1 bar 1 stockRoom
+1 2 gym middleLeft
+0
+6 1 games W 1 games W 1 centralHall S 1 centralHall S 1 centralHall S 1 centralHall S 1 centralHall S
+1 1 stock W
+5 3 1 1 2
+10 1 2 9 11

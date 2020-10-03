@@ -1,0 +1,29 @@
+kafeDostoyevsky
+3 cocktailLounge 3 bar
+0
+0
+6 3 cigar N 3 cigar N 3 cigar E 3 cigar E 3 bar S 3 bar S
+2 3 bathroom W 3 barBackstore E
+5 4 1 2 1
+8 10 8 7 6
+2 mining 2 fireplace
+1 3 cigar byPiano
+0
+6 2 fireplace N 2 fireplace N 2 fireplace N 2 fireplace N 2 fireplace E 2 fireplace E
+1 2 fireplace W
+5 4 1 2 1
+10 11 8 2 6
+1 kitchenService 1 kitchenCooking
+1 2 fireplace east
+3 1 fridge E 1 fridge E 1 fridge E
+7 1 fridge E 1 fridge E 1 fridge E 1 kitchenPrep N 1 kitchenPrep N 1 bakeryKitchen W 1 bakeryKitchen W
+0
+5 4 1 2 1
+9 10 9 2 2
+2 readingRoom 2 fireplace
+2 3 barBackstore middle 3 cigar byPiano
+0
+6 2 readingRoom N 2 readingRoom N 2 fireplace N 2 fireplace N 2 fireplace N 2 fireplace N
+0
+5 4 1 2 1
+10 9 8 2 6

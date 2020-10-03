@@ -1,0 +1,29 @@
+coastline
+2 billiards 2 hookah
+0
+0
+9 2 hookah E 2 hookah E 2 hookah E 2 billiards E 2 billiards E 2 billiards E 2 billiards E 2 billiards S 2 billiards S
+2 2 hookah E 2 hookah S
+4 1 1 2 2
+10 8 8 11 6
+2 theater 2 penthouse
+0
+0
+7 2 penthouse W 2 penthouse W 2 penthouse W 2 theater S 2 theater S 2 bathroom W 2 bathroom W
+1 2 theater N
+4 1 1 2 2
+10 8 8 11 6
+1 kitchen 1 service
+0
+0
+6 1 kitchen S 1 kitchen S 1 kitchen S 1 kitchen S 1 service W 1 service W
+0
+4 1 1 2 2
+10 8 8 11 6
+1 blueBar 1 sunriseBar
+1 2 hookah behindBar
+0
+8 1 office N 1 office N 1 hall W 1 hall W 1 blueBar E 1 blueBar E 1 blueBar E 1 blueBar E 
+1 1 blueBar N
+4 1 1 2 2
+10 8 8 11 6

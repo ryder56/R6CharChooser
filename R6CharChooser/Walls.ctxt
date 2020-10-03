@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Walls
+comment1.params=floor\ location\ orientation
+comment1.target=Walls(int,\ java.lang.String,\ char)
+comment2.params=
+comment2.target=java.lang.String\ Orientation()
+comment3.params=side
+comment3.target=void\ setOrientation(char)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

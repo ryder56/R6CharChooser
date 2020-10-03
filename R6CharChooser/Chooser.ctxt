@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Chooser
+comment1.params=currentMap
+comment1.target=Chooser(Map)
+comment10.params=aSite
+comment10.target=java.lang.String\ currentSiteInformation(Sites)
+comment2.params=newMap
+comment2.target=void\ setMap(Map)
+comment3.params=type
+comment3.target=void\ addOperatorAlreadyChosenType(int)
+comment4.params=siteIndex
+comment4.target=LinkedList\ recommendedOperatorsForAttack(int)
+comment5.params=siteIndex
+comment5.target=LinkedList\ recommendedOperatorsForDefense(int)
+comment6.params=operatorList\ siteIndex\ defense
+comment6.target=java.lang.String\ recommendedToString(LinkedList,\ int,\ boolean)
+comment7.params=type
+comment7.target=java.lang.String\ typeToString(int)
+comment8.params=
+comment8.target=java.lang.String\ bestSiteToHold()
+comment9.params=
+comment9.target=java.lang.String\ bestSiteInformation()
+numComments=11

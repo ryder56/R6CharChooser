@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Driver
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ printMenu()
+comment3.params=mapList
+comment3.target=void\ printMapNames(LinkedList)
+comment4.params=currentMap
+comment4.target=void\ printSiteNames(Map)
+comment5.params=operatorList\ attacking
+comment5.target=void\ printOperators(LinkedList,\ boolean)
+numComments=6

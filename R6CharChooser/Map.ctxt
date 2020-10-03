@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Map
+comment1.params=name
+comment1.target=Map(java.lang.String)
+comment2.params=aSite
+comment2.target=void\ addSite(Sites)
+comment3.params=index
+comment3.target=Sites\ getSite(int)
+comment4.params=
+comment4.target=java.lang.String\ recommendedSite()
+comment5.params=
+comment5.target=java.lang.String\ sitesToString()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=Sites\ getBestSite()
+numComments=8

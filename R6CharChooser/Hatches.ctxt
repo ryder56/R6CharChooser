@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hatches
+comment1.params=floor\ location\ orientation
+comment1.target=Hatches(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ Orientation()
+comment3.params=location
+comment3.target=void\ setOrientation(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

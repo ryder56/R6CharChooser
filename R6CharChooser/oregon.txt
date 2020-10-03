@@ -1,0 +1,29 @@
+oregon
+2 mainDorm 2 kidsDorm
+0
+2 2 game S 2 game S
+4 2 game S 2 game S 2 kidsDorm E 2 kidsDorm E
+1 2 kidsDorm S
+5 4 2 1 1
+9 8 7 2 11
+-1 laundry -1 supply
+2 1 lobby middle 1 meetingHall northMiddle
+2 -1 supply E -1 supply E
+4 -1 supply E -1 supply E -1 laundry W -1 laundry W
+1 -1 supply S
+5 4 2 1 1
+9 8 6 2 11
+1 dining 1 kitchen
+1 2 kidsDorm west
+0
+6 1 dining S 1 dining S 1 dining W 1 dining W 1 kitchen E 1 kitchen E
+1 1 kitchen W
+5 4 2 1 1
+9 8 8 2 11
+1 meeting 1 kitchen
+2 2 kidsDorm west 2 attic middle
+2 1 meeting N 1 meeting N
+5 1 meeting N 1 meeting N 1 meeting S 1 meeting S 1 kitchen W
+1 1 meeting W
+5 4 2 1 1
+9 8 8 2 11

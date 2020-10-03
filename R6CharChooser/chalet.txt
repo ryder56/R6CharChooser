@@ -1,0 +1,29 @@
+chalet
+-1 wineCellar -1 garage
+3 1 greatRoom southeastCorner 1 bar behindBar 1 diningRoom southeastCorner
+2 -1 garage S -1 garage S
+7 -1 garage S -1 garage S -1 wineCellar N -1 wineCellar N -1 wineCellar N -1 wineStock E -1 wineStock E
+0
+5 3 1 12 12
+9 8 2 7 6
+1 kitchen 1 trophy
+1 2 masterBedroom north
+0
+2 1 trophy S 1 trophy S
+1 1 kitchen N
+5 1 2 4 2
+10 2 8 2 1
+2 office 2 masterBedroom
+0
+0
+0
+1 2 office N
+5 1 2 4 2
+10 1 2 2 11
+1 gaming 1 bar
+2 2 library west 2 libraryEnterance middle
+0
+2 1 greatRoom W 1 greatRoom W
+1 1 gaming E
+5 1 2 4 2
+10 1 2 2 11

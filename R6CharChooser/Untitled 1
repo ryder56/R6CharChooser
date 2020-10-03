@@ -1,0 +1,7 @@
+line2 - Site A Floor, Site A name, site B floor, site B name
+line3 - # of hatches to barricade, (for each hatch) floor, location(string), orientation(string)
+line4 - # of walls to electrify, (for each wall) floor, location(string), orientation(char)
+line5 - # of walls to barricade, (for each wall) floor, location(string), orientation(char)
+line6 - # of rotation walls to break, (for each wall) floor, location(string), orientation(char)
+line7 - ideal attack composition
+line8 - ideal defense composition

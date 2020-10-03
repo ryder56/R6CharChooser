@@ -1,0 +1,43 @@
+MAP NAME
+int siteAFloor String siteAName int siteBFloor String siteBName
+# of hatches to barricade - int floor, string location, string orientation
+# of walls to electric - int floor, string location, char orientation
+# of walls to barricade - int floor, string location, char orientation
+# of walls for rotation - int floor, string location, char orientation
+ideal attack - 1 2 3 4 5
+ideal defense - 1 2 3 4 5
+siteAFloor siteAName siteBFloor siteBName
+# of hatches to barricade - int floor, string location, string orientation
+# of walls to electric - int floor, string location, char orientation
+# of walls to barricade - int floor, string location, char orientation
+# of walls for rotation - int floor, string location, char orientation
+ideal attack - 1 2 3 4 5
+ideal defense - 1 2 3 4 5
+siteAFloor siteAName siteBFloor siteBName
+# of hatches to barricade - int floor, string location, string orientation
+# of walls to electric - int floor, string location, char orientation
+# of walls to barricade - int floor, string location, char orientation
+# of walls for rotation - int floor, string location, char orientation
+ideal attack - 1 2 3 4 5
+ideal defense - 1 2 3 4 5
+siteAFloor siteAName siteBFloor siteBName
+# of hatches to barricade - int floor, string location, string orientation
+# of walls to electric - int floor, string location, char orientation
+# of walls to barricade - int floor, string location, char orientation
+# of walls for rotation - int floor, string location, char orientation
+ideal attack - 1 2 3 4 5
+ideal defense - 1 2 3 4 5
+
+
+	 * Fragger: 1
+	 * Utility: 2
+	 * AntiElectric: 3
+	 * SoftDestruction: 4
+	 * HardBreach: 5
+	 * Delay: 6
+	 * UtilitySink: 7
+	 * AntiUtility: 8
+	 * AntiBreach: 9
+	 * Cams: 10
+	 * Roam: 11
+	 * AntiRoam: 12

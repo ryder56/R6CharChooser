@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Reinforcables
+comment1.params=location
+comment1.target=void\ setLocation(java.lang.String)
+comment2.params=floor
+comment2.target=void\ setFloor(int)
+comment3.params=
+comment3.target=int\ getFloor()
+comment4.params=
+comment4.target=java.lang.String\ getLocation()
+comment5.params=
+comment5.target=java.lang.String\ Orientation()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

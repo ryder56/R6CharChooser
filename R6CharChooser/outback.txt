@@ -1,0 +1,29 @@
+bank
+-1 CCTV -1 Lockers
+4 1 elevator middle 1 openArea northwestDesk 1 adminOffice middle 1 skylightStairs middle
+0
+3 -1 loadingDock N -1 CCTV N -1 CCTV E
+2 -1 secureHallway E -1 secureHallway W
+5 1 4 2 5
+10 11 8 8 7
+2 CEO 2 executiveLounge
+0
+0
+4 2 CEO E 2 CEO E 2 CEO E 2 CEO E
+1 2 janitorCloset N
+5 4 2 1 5
+10 10 1 8 6
+1 openArea 1 staffRoom
+3 2 stockTrading backRight 2 hallway byStockTrading 2 janitorCloset middle
+0
+5 N 1 staffRoom N 1 staffRoom N 1 staffRoom N 1 officeHallway W 1 officeHallway W
+0
+5 4 2 1 5
+10 10 11 7 2
+1 tellers 1 archives
+0
+0
+7 1 tellers W 1 tellers W 1 tellers S 1 tellers S 1 archives S 1 archives S 1 archives S
+1 1 archives W
+5 4 2 1 5
+10 10 11 7 2

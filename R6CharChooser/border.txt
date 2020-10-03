@@ -1,0 +1,29 @@
+border
+2 armory 2 archives
+0
+2 2 armory S 2 armory S
+9 2 armory S 2 armory S 2 archives E 2 archives E 2 offices E 2 offices E 2 offices E 2 fountain W 2 fountain W
+0
+5 3 4 1 2
+10 9 8 1 6
+1 workshop 1 ventilation
+2 2 armoryDesk middle 2 archives behindDesk
+4 1 detention W 1 detention W 1 tellers N 1 tellers N
+4 1 detention W 1 detention W 1 tellers N 1 tellers N
+2 1 ventilation E 1 workshop E
+5 3 4 1 2
+10 9 2 2 7
+1 supply 1 customs
+2 2 security middle 2 security backRightCorner
+2 1 detention W 1 detention W
+6 1 detention W 1 detention W 1 customs E 1 customs E 1 customs E 1 customs E
+1 1 supply S
+5 3 4 1 2
+10 9 8 11 2
+1 bathroom 1 tellers
+1 1 offices southeastCorner
+0
+5 1 bathroom W 1 bathroom W 1 bathroom W 1 tellers N 1 tellers N
+0
+5 3 4 1 2
+10 11 1 8 2
