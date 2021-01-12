@@ -1,7 +1,5 @@
 //**************
-// CSE 205: #11333 - T,Th - 4:30-5:45
-// Assignment: assignment #6
-// Author: Ryder Roth - 1216790822
+// Author: Ryder Roth
 // Description: This is the sites class, it stores all the information a site has and only has setters and getters as a site can not do any action.
 //**************
 public class Sites {
