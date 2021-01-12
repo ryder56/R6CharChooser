@@ -1,7 +1,5 @@
 //**************
-// CSE 205: #11333 - T,Th - 4:30-5:45
-// Assignment: assignment #6
-// Author: Ryder Roth - 1216790822
+// Author: Ryder Roth
 // Description: This is the operators class that stores what operators have and can return, the ranking isnt used in the current program, but I plan on expanding on this outside of this class so I wanted to build add it now. 
 //**************
 
