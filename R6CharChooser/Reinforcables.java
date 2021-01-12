@@ -1,7 +1,5 @@
 //**************
-// CSE 205: #11333 - T,Th - 4:30-5:45
-// Assignment: assignment #6
-// Author: Ryder Roth - 1216790822
+// Author: Ryder Roth
 // Description: This is the reinforcable abstract class that stores what reinforcables have and must do.
 //**************
 public abstract class Reinforcables {
