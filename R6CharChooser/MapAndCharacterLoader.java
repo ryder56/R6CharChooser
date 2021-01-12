@@ -1,7 +1,5 @@
 //**************
-// CSE 205: #11333 - T,Th - 4:30-5:45
-// Assignment: assignment #6
-// Author: Ryder Roth - 1216790822
+// Author: Ryder Roth
 // Description: This is the program that loads the map given the name of the file that contains the name of the map files and the file that contains all of the operators.
 //**************
 import java.util.*;
