@@ -1,6 +1,4 @@
 //**************
-// CSE 205: #11333 - T,Th - 4:30-5:45
-// Assignment: assignment #6
 // Author: Ryder Roth - 1216790822
 // Description: This is the hatch class that stores what hatches have and can do.
 //**************
