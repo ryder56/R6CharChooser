@@ -1,5 +1,5 @@
 //**************
-// Author: Ryder Roth - 1216790822
+// Author: Ryder Roth
 // Description: This is the hatch class that stores what hatches have and can do.
 //**************
 public class Hatches extends Reinforcables{
